@@ -3,3 +3,5 @@
 application.spec
 build
 dist
+__pycache__
+

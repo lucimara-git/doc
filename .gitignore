@@ -1,2 +1,5 @@
 *.db
 *.docx
+application.spec
+build
+dist
